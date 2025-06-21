@@ -6,4 +6,7 @@ public class Person {
     {
         System.out.println(java.time.LocalDate.now());
     }
+    public void saluer2(){
+        System.out.println("Bonsoir tout le monde ");
+    }
 }

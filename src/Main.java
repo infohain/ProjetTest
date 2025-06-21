@@ -3,6 +3,7 @@ public class Main {
         Person p1=new Person();
         p1.saluer1();
         p1.afficherDate();
+        p1.saluer2();
     }
 
 }
